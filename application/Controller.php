@@ -7,7 +7,7 @@
  * Controller.php
  * -------------------------------------
  */
-//este es el archivo controladr principal
+
 
 abstract class Controller
 {
