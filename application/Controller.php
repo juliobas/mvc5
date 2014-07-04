@@ -8,7 +8,7 @@
  * -------------------------------------
  */
 
-
+//prueba para saber como enviar algo en el repositorio y pasarlo al local
 abstract class Controller
 {
     protected $_view;
